@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            >
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtLabel"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/fotodosen"
+                />
+            <include layout="@layout/item_devider"
+                     android:id="@+id/dividerForo"
+                     android:layout_below="@id/txtLabel"
+                     android:layout_width="match_parent"
+                     android:layout_height="1dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtLabel"
+                android:textSize="16dp"
+                android:layout_marginTop="10dp"
+                android:text="S1 Sistem Komputer"
+                android:textStyle="bold"
+                android:id="@+id/sktitle"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_below="@+id/sktitle"
+                android:id="@+id/skakre"
+                android:textSize="14dp"
+                android:text="Akreditasi B"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/skakre"
+                android:id="@+id/profile1"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="STMIK AMIK Jayanusa merupakan perguruan tinggi komputer terkmuka di Kota Padang Sumatera Barat. Telah meluluskan mahasiswa dibidang komputer yang telah menyebar di berbagai bidang pekerjaan dan daerah di Indonesia"/>
+
+            <include layout="@layout/item_devider"
+                     android:id="@+id/divider1"
+                     android:layout_below="@id/profile1"
+                     android:layout_width="match_parent"
+                     android:layout_height="1dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/divider1"
+                android:textSize="16dp"
+                android:layout_marginTop="10dp"
+                android:text="S1 Sistem Komputer"
+                android:textStyle="bold"
+                android:id="@+id/sktitle1"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_below="@+id/sktitle1"
+                android:id="@+id/skakre1"
+                android:textSize="14dp"
+                android:text="Akreditasi B"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_below="@+id/skakre1"
+                android:id="@+id/profile2"
+                android:layout_marginTop="10dp"
+                android:text="STMIK AMIK Jayanusa merupakan perguruan tinggi komputer terkmuka di Kota Padang Sumatera Barat. Telah meluluskan mahasiswa dibidang komputer yang telah menyebar di berbagai bidang pekerjaan dan daerah di Indonesia"/>
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/fototoga"
+        android:layout_marginTop="-10dp"
+        android:id="@+id/fotobangunan"/>
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fotobangunan"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/gambar"
+            android:orientation="horizontal"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            >
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Visi"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:id="@+id/visi"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/profile1"
+                android:layout_below="@+id/visi"
+                android:text="STMIK AMIK Jayanusa merupakan perguruan tinggi komputer terkmuka di Kota Padang Sumatera Barat. Telah meluluskan mahasiswa dibidang komputer yang telah menyebar di berbagai bidang pekerjaan dan daerah di Indonesia. STMIK AMIK Jayanusa merupakan perguruan tinggi komputer terkmuka di Kota Padang Sumatera Barat. Telah meluluskan mahasiswa dibidang komputer yang telah menyebar di berbagai bidang pekerjaan dan daerah di Indonesia.
+            "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Misi"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:layout_below="@+id/profile1"
+                android:id="@+id/misi"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/misi"
+                android:text="STMIK AMIK Jayanusa merupakan perguruan tinggi komputer terkmuka di Kota Padang Sumatera Barat. Telah meluluskan mahasiswa dibidang komputer yang telah menyebar di berbagai bidang pekerjaan dan daerah di Indonesia. STMIK AMIK Jayanusa merupakan perguruan tinggi komputer terkmuka di Kota Padang Sumatera Barat. Telah meluluskan mahasiswa dibidang komputer yang telah menyebar di berbagai bidang pekerjaan dan daerah di Indonesia."/>
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

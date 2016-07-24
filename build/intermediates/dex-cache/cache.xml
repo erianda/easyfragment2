@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e2ac9c92d33bebbc76d6014929802d288c117458">
+        <dex dex="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_686cc30c62895edc62cdd3d41b5d27f15a783742.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_7c342c49ac991eba540e89c47cdc09d698fd4d67.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_d96bc409062c6636285f11bcccfd3e83ec7ff937.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_39d06553a37e82154497aba0740e803677fcd17c.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_da2ed744f2d69421ee316b82a06a5b451825f590.jar" />
+    </item>
+    <item
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_bbfea23e49c4274d58d9b43db175bb8a8805cc84.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_65c1cb7d82fc6753174989a82c6c2f3a4df347c0.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a6592bed6dc54939144c362f42691daa1b0e2412">
+        <dex dex="/Volumes/Data/Android Project/JayaMobile/app/build/intermediates/pre-dexed/debug/instant-run_659679a33e93b39dd16bbd8d2235388af0ac6ee3.jar" />
+    </item>
+
+</items>
